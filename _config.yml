@@ -1,8 +1,8 @@
-title: Your Title
+title: Alpha Omega Epsilon at Lehigh University
 description: > # this means to ignore newlines until "baseurl:"
-  Your description
+  Beta Lambda Chapter of Alpha Omega Epsilon at Lehigh University
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Your-Link.github.io" # the base hostname & protocol for your site
+url: "aoebetalambda.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
