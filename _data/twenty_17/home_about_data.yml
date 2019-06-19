@@ -11,10 +11,10 @@
   link: /agenda
 
 - inverted: 
-  img: icon-team.jpeg
-  name: Team
-  info: Find out the team members
-  link: /team
+  img: icon-sister.jpeg
+  name: Sisters
+  info: Find out our members
+  link: /sisters
 
 - inverted: timeline-inverted
   img: icon-venue.jpeg
