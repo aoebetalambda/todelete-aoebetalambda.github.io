@@ -1,53 +1,55 @@
-- title: Name
-  name: Kate Chamberlain
+--- 
+- 
+  alt: "Picture of Kate Chamberlain"
+  description: "More Info"
+  img: TBD.jpg
+  name: "Kate Chamberlain"
   subtitle: President
-  img: TBD.jpg
   thumbnail: TBD.jpg
-  alt: Picture of Kate Chamberlain
+  title: Name
   topic: Topic
-  description: More Info
-
-- title: Name
-  name: Morgan Massino
-  subtitle: Vice President
+- 
+  alt: "Picture of Morgan Massino"
+  description: "More Info"
   img: TBD.jpg
+  name: "Morgan Massino"
+  subtitle: "Vice President"
   thumbnail: TBD.jpg
-  alt: Picture of Morgan Massino
+  title: Name
   topic: Topic
-  description: More Info
-
-- title: Name
-  name: Isabel De Guzman
+- 
+  alt: "Picture of Isabel De Guzman"
+  description: "More Info"
+  img: TBD.jpg
+  name: "Isabel De Guzman"
   subtitle: Secretary
-  img: TBD.jpg
   thumbnail: TBD.jpg
-  alt: Picture of Isabel De Guzman
+  title: Name
   topic: Topic
-  description: More Info
-
-  - title: Name
-  name: Maria Lancia
+- 
+  alt: "Picture of Maria Lancia"
+  description: "More Info"
+  img: TBD.jpg
+  name: "Maria Lancia"
   subtitle: Treasurer
-  img: TBD.jpg
   thumbnail: TBD.jpg
-  alt: Picture of Maria Lancia
+  title: Name
   topic: Topic
-  description: More Info
-
-  - title: Name
-  name: Molly Benning
-  subtitle: Membership Educator
+- 
+  alt: "Picture of Molly Benning"
+  description: "More Info"
   img: TBD.jpg
+  name: "Molly Benning"
+  subtitle: "Membership Educator"
   thumbnail: TBD.jpg
-  alt: Picture of Molly Benning
+  title: Name
   topic: Topic
-  description: More Info
-
-  - title: Name
-  name: Aubrey Beck
-  subtitle: Events Coordinator
+- 
+  alt: "Picture of Aubrey Beck"
+  description: "More Info"
   img: TBD.jpg
+  name: "Aubrey Beck"
+  subtitle: "Events Coordinator"
   thumbnail: TBD.jpg
-  alt: Picture of Aubrey Beck
+  title: Name
   topic: Topic
-  description: More Info
