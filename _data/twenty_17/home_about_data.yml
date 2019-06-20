@@ -4,20 +4,32 @@
   info: Read more about our Theme, Vision, and Mission
   link: /about
 
-- inverted: 
+- inverted: timeline-inverted
   img: icon-sister.jpeg
+  name: Founding Sisters
+  info: The Beta Lambda Chapter was founded at Lehigh University on February 22, 2014 with the Alpha and Beta classes made up from 35 sisters
+  link: /absisters
+
+- inverted: 
+  img: icon-faq.jpeg
+  name: Alumni
+  info: Find out who are alumni are
+  link: /alumni
+
+- inverted: timeline-inverted
+  img: booklet-icon.png
   name: Sisters
-  info: Find out our members
+  info: Get to know our sisters!
   link: /sisters
 
 - inverted: 
+  img: booklet-icon.png
+  name: Events
+  info: From social to recruitment to professional events, AOE has a lot in store for us
+  link: /events
+
+- inverted: timeline-inverted
   img: icon-faq.jpeg
   name: FAQs
   info: Have a Question? Many answers can be found right here in our FAQs
   link: /faqs
-
-- inverted: timeline-inverted
-  img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
-  link: /booklet
