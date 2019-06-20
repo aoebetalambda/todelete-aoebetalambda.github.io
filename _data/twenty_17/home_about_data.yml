@@ -4,23 +4,17 @@
   info: Read more about our Theme, Vision, and Mission
   link: /about
 
-- inverted: timeline-inverted
-  img: icon-agenda.jpeg
-  name: Agenda
-  info: Check out the agenda
-  link: /agenda
-
 - inverted: 
   img: icon-sister.jpeg
   name: Sisters
   info: Find out our members
   link: /sisters
 
-- inverted: timeline-inverted
-  img: icon-venue.jpeg
-  name: Venue
-  info: Learn more about our location
-  link: /venue
+# - inverted: timeline-inverted
+#   img: icon-venue.jpeg
+#   name: Venue
+#   info: Learn more about our location
+#   link: /venue
 
 - inverted: 
   img: icon-faq.jpeg
