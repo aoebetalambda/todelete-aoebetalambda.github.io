@@ -1,12 +1,12 @@
 --- 
 - 
-  alt: "Picture of Kate Chamberlain"
+  alt: "Picture of Xi Xi"
   description: "More Info"
-  img: TBD.jpg
-  name: "Kate Chamberlain"
-  subtitle: "Kate Chamberlain"
-  thumbnail: TBD.jpg
-  title: Name
+  img: Xi_Xi.png
+  name: "Xi Xi"
+  subtitle: "Xi Xi"
+  thumbnail: Xi_Xi.png
+  title: "Xi Xi"
   topic: Topic
 - 
   alt: "Picture of Morgan Massino"
@@ -15,7 +15,7 @@
   name: "Morgan Massino"
   subtitle: "Morgan Massino"
   thumbnail: TBD.jpg
-  title: Name
+  title: "Morgan Massino"
   topic: Topic
 - 
   alt: "Picture of Isabel De Guzman"
@@ -24,7 +24,7 @@
   name: "Isabel De Guzman"
   subtitle: "Isabel De Guzman"
   thumbnail: TBD.jpg
-  title: Name
+  title: "Isabel De Guzman"
   topic: Topic
 - 
   alt: "Picture of Maria Lancia"
@@ -33,7 +33,7 @@
   name: "Maria Lancia"
   subtitle: "Maria Lancia"
   thumbnail: TBD.jpg
-  title: Name
+  title: "Maria Lancia"
   topic: Topic
 - 
   alt: "Picture of Molly Benning"
