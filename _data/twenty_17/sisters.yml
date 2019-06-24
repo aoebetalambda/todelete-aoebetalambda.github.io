@@ -83,10 +83,10 @@
 -
   alt: "Picture of Natalie Maroun"
   description: "More Info"
-  img: natalie.jpeg
+  img: natalie.png
   name: "Natalie Maroun"
   subtitle: "Iota Class"
-  thumbnail: natalie.jpeg
+  thumbnail: natalie.png
   title: "Natalie Maroun '21"
   topic: Topic
 - 
@@ -191,19 +191,19 @@
 - 
   alt: "Picture of Jenna Catalano"
   description: "More Info"
-  img: TBD.png
+  img: jenna.png
   name: "Jenna Catalano"
   subtitle: "Kappa Class"
-  thumbnail: TBD.png
+  thumbnail: jenna.png
   title: "Jenna Catalano '21"
   topic: Topic
 - 
   alt: "Picture of Molly Benning"
   description: "More Info"
-  img: molly.jpeg
+  img: molly.png
   name: "Molly Benning"
   subtitle: "Kappa Class"
-  thumbnail: molly.jpeg
+  thumbnail: molly.png
   title: "Molly Benning '21"
   topic: Topic
 - 
@@ -245,19 +245,19 @@
 - 
   alt: "Picture of Morgan Massino"
   description: "More Info"
-  img: TBD.png
+  img: morgan.png
   name: "Morgan Massino"
   subtitle: "Kappa Class"
-  thumbnail: TBD.png
+  thumbnail: morgan.png
   title: "Morgan Massino '21"
   topic: Topic
 -  
   alt: "Picture of Maria Lancia"
   description: "More Info"
-  img: maria.jpeg
+  img: maria.jpg
   name: "Maria Lancia"
   subtitle: "Kappa Class"
-  thumbnail: maria.jpeg
+  thumbnail: maria.jpg
   title: "Maria Lancia '21"
   topic: Topic
 - 
