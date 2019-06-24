@@ -4,52 +4,358 @@
   description: "More Info"
   img: Xi_Xi.png
   name: "Xi Xi"
-  subtitle: "Xi Xi"
+  subtitle: "Eta Class"
   thumbnail: Xi_Xi.png
-  title: "Xi Xi"
+  title: "Xi Xi '20"
   topic: Topic
 - 
   alt: "Picture of Jasmine Banful"
   description: "More Info"
-  img: TBD.jpg
+  img: Banful_Jasmine.png
   name: "Jasmine Banful"
-  subtitle: "Jasmine Banful"
+  subtitle: "Theta Class"
   thumbnail: Banful_Jasmine.png
-  title: "Jasmine Banful"
+  title: "Jasmine Banful '20"
+  topic: Topic
+  - 
+  alt: "Picture of Krista Wollerman"
+  description: "More Info"
+  img: Wollerman_Krista.png
+  name: "Krista Wollerman"
+  subtitle: "Theta Class"
+  thumbnail: Wollerman_Krista.png
+  title: "Krista Wollerman '20"
+  topic: Topic
+- 
+  alt: "Picture of Kate Chamberlain"
+  description: "More Info"
+  img: Chamberlain_Kate.png
+  name: "Kate Chamberlain"
+  subtitle: "Theta Class"
+  thumbnail: Chamberlain_Kate.png
+  title: "Kate Chamberlain '20"
+  topic: Topic
+- 
+  alt: "Picture of Bethany Chen"
+  description: "More Info"
+  img: bethany.jpg
+  name: "Bethany Chen"
+  subtitle: "Theta Class"
+  thumbnail: bethany.jpg
+  title: "Bethany Chen '20"
+  topic: Topic
+- 
+  alt: "Picture of Alyssa Shretstha"
+  description: "More Info"
+  img: Shrestha_Alyssa.png
+  name: "Alyssa Shretstha"
+  subtitle: "Theta Class"
+  thumbnail: Shrestha_Alyssa.png
+  title: "Alyssa Shretstha '20"
+  topic: Topic
+- 
+  alt: "Picture of Nzinga Hendricks"
+  description: "More Info"
+  img: nzinga.png
+  name: "Nzinga Hendricks"
+  subtitle: "Theta Class"
+  thumbnail: nzinga.png
+  title: "Nzinga Hendricks '20"
+  topic: Topic
+- 
+  alt: "Picture of Abby Bettenhausen"
+  description: "More Info"
+  img: abby.jpg
+  name: "Abby Bettenhausen"
+  subtitle: "Theta Class"
+  thumbnail: abby.jpg
+  title: "Abby Bettenhausen '20"
+  topic: Topic
+- 
+  alt: "Picture of Jillian Cowles"
+  description: "More Info"
+  img: Cowles_Jillian.png
+  name: "Jillian Cowles"
+  subtitle: "Theta Class"
+  thumbnail: Cowles_Jillian.png
+  title: "Jillian Cowles '20"
+  topic: Topic
+-
+  alt: "Picture of Natalie Maroun"
+  description: "More Info"
+  img: natalie.jpeg
+  name: "Natalie Maroun"
+  subtitle: "Iota Class"
+  thumbnail: natalie.jpeg
+  title: "Natalie Maroun '21"
+  topic: Topic
+- 
+  alt: "Picture of Kaitlyn Baldizzi"
+  description: "More Info"
+  img: Baldizzi_Kaitlyn.jpg
+  name: "Kaitlyn Baldizzi"
+  subtitle: "Iota Class"
+  thumbnail: Baldizzi_Kaitlyn.jpg
+  title: "Kaitlyn Baldizzi '21"
   topic: Topic
 - 
   alt: "Picture of Isabel De Guzman"
   description: "More Info"
   img: TBD.jpg
   name: "Isabel De Guzman"
-  subtitle: "Isabel De Guzman"
+  subtitle: "Iota Class"
   thumbnail: TBD.jpg
-  title: "Isabel De Guzman"
+  title: "Isabel De Guzman '20"
   topic: Topic
 - 
-  alt: "Picture of Maria Lancia"
+  alt: "Picture of Francesca Brown"
   description: "More Info"
-  img: TBD.jpg
-  name: "Maria Lancia"
-  subtitle: "Maria Lancia"
-  thumbnail: TBD.jpg
-  title: "Maria Lancia"
-  topic: Topic
-- 
-  alt: "Picture of Molly Benning"
-  description: "More Info"
-  img: TBD.jpg
-  name: "Molly Benning"
-  subtitle: "Molly Benning"
-  thumbnail: TBD.jpg
-  title: Name
+  img: francesca.jpg
+  name: "Francesca Brown"
+  subtitle: "Iota Class"
+  thumbnail: francesca.jpg
+  title: "Francesca Brown '21"
   topic: Topic
 - 
   alt: "Picture of Aubrey Beck"
   description: "More Info"
-  img: TBD.jpg
+  img: aubrey.jpg
   name: "Aubrey Beck"
-  subtitle: "Aubrey Beck"
+  subtitle: "Iota Class"
+  thumbnail: aubrey.jpg
+  title: "Aubrey Beck '20"
+  topic: Topic
+- 
+  alt: "Picture of Adele Hancock"
+  description: "More Info"
+  img: adele.jpg
+  name: "Adele Hancock"
+  subtitle: "Iota Class"
+  thumbnail: adele.jpg
+  title: "Adele Hancock '21"
+  topic: Topic
+- 
+  alt: "Picture of Carolyn Wang"
+  description: "More Info"
+  img: carolynw.jpg
+  name: "Carolyn Wang"
+  subtitle: "Iota Class"
+  thumbnail: carolynw.jpg
+  title: "Carolyn Wang '21"
+  topic: Topic
+- 
+  alt: "Picture of Sydney Wisniewski"
+  description: "More Info"
+  img: Sydney.jpg
+  name: "Sydney Wisniewski"
+  subtitle: "Iota Class"
+  thumbnail: Sydney.jpg
+  title: "Sydney Wisniewski '21"
+  topic: Topic
+- 
+  alt: "Picture of Samina Forbath"
+  description: "More Info"
+  img: samina.jpg
+  name: "Samina Forbath"
+  subtitle: "Iota Class"
+  thumbnail: samina.jpg
+  title: "Samina Forbath '20"
+  topic: Topic
+- 
+  alt: "Picture of Georgia O'Connor"
+  description: "More Info"
+  img: Georgia.jpg
+  name: "Georgia O'Connor"
+  subtitle: "Iota Class"
+  thumbnail: Georgia.jpg
+  title: "Georgia O'Connor '21"
+  topic: Topic
+- 
+  alt: "Picture of Jessica Osgoodby"
+  description: "More Info"
+  img: Jess.jpg
+  name: "Jessica Osgoodby"
+  subtitle: "Iota Class"
+  thumbnail: Jess.jpg
+  title: "Jessica Osgoodby '20"
+  topic: Topic
+- 
+  alt: "Picture of Isabella Romano"
+  description: "More Info"
+  img: Isabella.jpg
+  name: "Isabella Romano"
+  subtitle: "Iota Class"
+  thumbnail: Isabella.jpg
+  title: "Isabella Romano '21"
+  topic: Topic
+- 
+  alt: "Picture of Jenna Catalano"
+  description: "More Info"
+  img: TBD.jpg
+  name: "Jenna Catalano"
+  subtitle: "Kappa Class"
   thumbnail: TBD.jpg
-  title: Name
+  title: "Jenna Catalano '21"
+  topic: Topic
+- 
+  alt: "Picture of Molly Benning"
+  description: "More Info"
+  img: molly.jpeg
+  name: "Molly Benning"
+  subtitle: "Kappa Class"
+  thumbnail: molly.jpeg
+  title: "Molly Benning '21"
+  topic: Topic
+- 
+  alt: "Picture of Laura Ott" 
+  description: "More Info"
+  img: laura.jpg
+  name: "Laura Ott"
+  subtitle: "Kappa Class"
+  thumbnail: laura.jpg
+  title: "Laura Ott '21"
+  topic: Topic
+- 
+  alt: "Picture of Dana Baker-Tubbs"
+  description: "More Info"
+  img: dana.jpg
+  name: "Dana Baker-Tubbs"
+  subtitle: "Kappa Class"
+  thumbnail: dana.jpg
+  title: "Dana Baker-Tubbs '21"
+  topic: Topic
+- 
+  alt: "Picture of Kyra Dimaranan"
+  description: "More Info"
+  img: kyra.jpg
+  name: "Kyra Dimaranan"
+  subtitle: "Kappa Class"
+  thumbnail: kyra.jpg
+  title: "Kyra Dimaranan '21"
+  topic: Topic
+- 
+  alt: "Picture of Suyeon Hong"
+  description: "More Info"
+  img: suyeon.jpg
+  name: "Suyeon Hong"
+  subtitle: "Kappa Class"
+  thumbnail: suyeon.jpg
+  title: "Suyeon Hong '21"
+  topic: Topic
+- 
+  alt: "Picture of Morgan Massino"
+  description: "More Info"
+  img: TBD.jpg
+  name: "Morgan Massino"
+  subtitle: "Kappa Class"
+  thumbnail: TBD.jpg
+  title: "Morgan Massino '21"
+  topic: Topic
+-  
+  alt: "Picture of Maria Lancia"
+  description: "More Info"
+  img: maria.jpeg
+  name: "Maria Lancia"
+  subtitle: "Kappa Class"
+  thumbnail: maria.jpeg
+  title: "Maria Lancia '21"
+  topic: Topic
+- 
+  alt: "Picture of Linh Pham"
+  description: "More Info"
+  img: Linh.jpg
+  name: "Linh Pham"
+  subtitle: "Kappa Class"
+  thumbnail: Linh.jpg
+  title: "Linh Pham '20"
+  topic: Topic
+- 
+  alt: "Picture of Shruthi Raja"
+  description: "More Info"
+  img: TBD.jpg
+  name: "Shruthi Raja"
+  subtitle: "Kappa Class"
+  thumbnail: TBD.jpg
+  title: "Shruthi Raja '20"
+  topic: Topic
+- 
+  alt: "Picture of Julia Zak"
+  description: "More Info"
+  img: julia.jpg
+  name: "Julia Zak"
+  subtitle: "Lambda Class"
+  thumbnail: julia.jpg
+  title: "Julia Zak '22"
+  topic: Topic
+- 
+  alt: "Picture of Trinity Lee"
+  description: "More Info"
+  img: trinity.jpg
+  name: "Trinity Lee"
+  subtitle: "Lambda Class"
+  thumbnail: trinity.jpg
+  title: "Trinity Lee '22"
+  topic: Topic
+  - 
+  alt: "Picture of Ngan Trang"
+  description: "More Info"
+  img: ngan.jpg
+  name: "Ngan Trang"
+  subtitle: "Lambda Class"
+  thumbnail: ngan.jpg
+  title: "Ngan Trang '22"
+  topic: Topic
+  - 
+  alt: "Picture of Zhen Lin"
+  description: "More Info"
+  img: zhen.jpg
+  name: "Zhen Lin"
+  subtitle: "Lambda Class"
+  thumbnail: zhen.jpg
+  title: "Zhen Lin '22"
+  topic: Topic
+  - 
+  alt: "Picture of Jel Kwecharoan"
+  description: "More Info"
+  img: jel.jpg
+  name: "Jel Kwecharoan"
+  subtitle: "Lambda Class"
+  thumbnail: jel.jpg
+  title: "Jel Kwecharoan '22"
+  topic: Topic
+  - 
+  alt: "Picture of Cindy Xu"
+  description: "More Info"
+  img: cindy.jpg
+  name: "Cindy Xu"
+  subtitle: "Lambda Class"
+  thumbnail: cindy.jpg
+  title: "Cindy Xu '22"
+  topic: Topic
+  - 
+  alt: "Picture of Carolyn David"
+  description: "More Info"
+  img: carolynd.jpg
+  name: "Carolyn David"
+  subtitle: "Lambda Class"
+  thumbnail: carolynd.jpg
+  title: "Carolyn David '22"
+  topic: Topic
+  - 
+  alt: "Picture of Nicole ElChaar"
+  description: "More Info"
+  img: nicole.jpg
+  name: "Nicole ElChaar"
+  subtitle: "Lambda Class"
+  thumbnail: nicole.jpg
+  title: "Nicole ElChaar '22"
+  topic: Topic
+  - 
+  alt: "Picture of Mia Stevens"
+  description: "More Info"
+  img: mia.jpg
+  name: "Mia Stevens"
+  subtitle: "Lambda Class"
+  thumbnail: mia.jpg
+  title: "Mia Stevens '22"
   topic: Topic
