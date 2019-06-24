@@ -1,7 +1,7 @@
 ---
 layout: 2017_default
-permalink: /foundingsisters
-title: Founding Sisters
+permalink: /committee
+title: Committee Chairs
 published: true
 ---
     <!--background color-->
@@ -12,10 +12,10 @@ published: true
     <div class="event black-frame">
       <h1 class="title">{{ page.title }}</h1>
 
-      <p>The Beta Lambda Chapter was founded at Lehigh University on February 22, 2014 with the Alpha and Beta classes made up from the 35 sisters below.<p>
+      <p>These are the committee chairs for the Fall semester of 2019!<p>
         <ol>
-            {% for sis in site.data.twenty_17.founding %}
-                <li>{{ sis.name }}</li>
+            {% for sis in site.data.twenty_17.committee %}
+                <p style="text-align:center">{{ sis.position }}<br> - {{ sis.name }}}</ p>
             {% endfor %}
         </ol>
     </div>
