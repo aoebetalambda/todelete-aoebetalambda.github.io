@@ -10,12 +10,12 @@
         <div class="row">
         {% for sis in site.data.twenty_17.exec %}
             <div class="col-md-4 col-sm-6 sisters-item">
-                <a href="#{{ sis.name }}" class="sisters-link" data-toggle="modal">
-                    <div class="sisters-hover">
+                <a href="#{{ sis.name }}" >
+                    <!-- <div class="sisters-hover">
                         <div class="sisters-hover-content">
                             <i class="fa fa-plus fa-3x"></i>
                         </div>
-                    </div>
+                    </div> -->
                     <!--change the /img/sisters to /img/exec when you put in those pics-->
                     <img src="../css/2017_style/img/sisters/{{ sis.thumbnail }}" class="img-responsive img-centered" alt="">
                 </a>
