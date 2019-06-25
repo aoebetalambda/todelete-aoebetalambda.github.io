@@ -1,55 +1,31 @@
 --- 
 - 
   alt: "Picture of Kate Chamberlain"
-  description: "More Info"
-  img: Chamberlain_Kate.png
   name: "Kate Chamberlain"
-  subtitle: President
+  position: President
   thumbnail: Chamberlain_Kate.png
-  title: "Kate Chamberlain"
-  topic: Topic
 - 
   alt: "Picture of Morgan Massino"
-  description: "More Info"
-  img: morgan.png
   name: "Morgan Massino"
-  subtitle: "Vice President"
+  position: "Vice President"
   thumbnail: morgan.png
-  title: "Morgan Massino"
-  topic: Topic
 - 
   alt: "Picture of Isabel De Guzman"
-  description: "More Info"
-  img: isabel.png
   name: "Isabel De Guzman"
-  subtitle: Secretary
+  position: Secretary
   thumbnail: isabel.png
-  title: "Isabel De Guzman"
-  topic: Topic
 - 
   alt: "Picture of Maria Lancia"
-  description: "More Info"
-  img: maria.png
   name: "Maria Lancia"
-  subtitle: Treasurer
+  position: Treasurer
   thumbnail: maria.png
-  title: "Maria Lancia"
-  topic: Topic
 - 
   alt: "Picture of Molly Benning"
-  description: "More Info"
-  img: molly.png
   name: "Molly Benning"
-  subtitle: "Membership Educator"
+  position: "Membership Educator"
   thumbnail: molly.png
-  title: "Molly Benning"
-  topic: Topic
 - 
   alt: "Picture of Aubrey Beck"
-  description: "More Info"
-  img: aubrey.png
   name: "Aubrey Beck"
-  subtitle: "Events Coordinator"
+  position: "Events Coordinator"
   thumbnail: aubrey.png
-  title: "Aubrey Beck"
-  topic: Topic
