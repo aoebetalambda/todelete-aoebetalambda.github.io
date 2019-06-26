@@ -88,7 +88,8 @@ h6 {
 }
 
 h4 {
-	font-size: 120%;
+    font-size: 120%;
+    text-align: center;
 }
 
 .img-centered {
