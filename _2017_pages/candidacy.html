@@ -10,7 +10,7 @@ title: Candidacy
 <style>
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
-.mySlides {display: inline}
+.mySlides {display: show}
 img {vertical-align: middle;}
 
 /* Slideshow container */
@@ -160,12 +160,12 @@ function showSlides(n) {
   if (n > slides.length) {slideIndex = 1}    
   if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  
+      slides[i].style.display = "show";  
   }
   for (i = 0; i < dots.length; i++) {
       dots[i].className = dots[i].className.replace(" active", "");
   }
-  slides[slideIndex-1].style.display = "block";  
+  slides[slideIndex-1].style.display = "show";  
   dots[slideIndex-1].className += " active";
 }
 </script>
