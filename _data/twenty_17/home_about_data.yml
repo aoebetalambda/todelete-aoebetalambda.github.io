@@ -1,35 +1,41 @@
 - inverted: 
-  img: icon-about.jpeg
+  img: about.png
   name: Theme, Vision, Mission
   info: Read more about our Theme, Vision, and Mission
   link: /about
 
 - inverted: timeline-inverted
-  img: icon-sister.jpeg
+  img: founding.png
   name: Founding Sisters
-  info: The Beta Lambda Chapter was founded at Lehigh University on February 22, 2014 with the Alpha and Beta classes made up from 35 sisters
+  info: The Beta Lambda Chapter was founded at Lehigh University on February 22, 2014 with the Alpha and Beta classes made from 35 sisters
   link: /foundingsisters
 
 - inverted: 
-  img: icon-faq.jpeg
+  img: alumni.png
   name: Alumni
   info: Find out who are alumni are
   link: /alumni
 
 - inverted: timeline-inverted
-  img: booklet-icon.png
+  img: sisters.png
   name: Sisters
   info: Get to know our sisters!
   link: /sisters
 
 - inverted: 
-  img: booklet-icon.png
+  img: committee.png
+  name: Committee
+  info: See who's on which committee
+  link: /committee
+
+- inverted: timeline-inverted
+  img: events.png
   name: Events
   info: From social to recruitment to professional events, AOE has a lot in store for us
   link: /events
 
-- inverted: timeline-inverted
-  img: icon-faq.jpeg
+- inverted: 
+  img: faq.png
   name: FAQs
   info: Have a Question? Many answers can be found right here in our FAQs
   link: /faqs
