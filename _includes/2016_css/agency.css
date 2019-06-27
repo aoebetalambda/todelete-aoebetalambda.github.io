@@ -103,11 +103,6 @@ h4.exec{
     margin: 0 auto;
 } 
 
-.img-centered1 {
-    margin: 50 auto;
-    margin-top: 50px;
-}
-
 aside.clients {
     padding-top: 150px;
     padding-bottom: 100px;
@@ -755,6 +750,11 @@ section h3.section-subheading {
         padding: 0 30px 20px 20px;
         text-align: left;
     }
+
+    .img-centered1 {
+        margin: 25 auto;
+        margin-top: 25px;
+    }
 }
 
 @media(min-width:992px) {
@@ -781,6 +781,11 @@ section h3.section-subheading {
     .timeline>li.timeline-inverted>.timeline-panel {
         padding: 0 20px 20px;
     }
+
+    .img-centered1 {
+        margin: 40 auto;
+        margin-top: 50px;
+    }
 }
 
 @media(min-width:1200px) {
@@ -804,6 +809,11 @@ section h3.section-subheading {
 
     .timeline>li.timeline-inverted>.timeline-panel {
         padding: 0 10px 20px 20px;
+    }
+
+    .img-centered1 {
+        margin: 50 auto;
+        margin-top: 50px;
     }
 }
 
