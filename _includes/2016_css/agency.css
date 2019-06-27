@@ -96,7 +96,9 @@ h4 {
     font-size: 120%;
     /* text-align: center; */
 }
-
+h4.exec{
+    text-align: center;
+}
 .img-centered {
     margin: 0 auto;
 } 
