@@ -621,7 +621,7 @@ section h3.section-subheading {
 
 .timeline>li {
     position: relative;
-    margin-bottom: 0px;
+    margin-bottom: 50px;
     min-height: 50px;
 }
 
@@ -721,7 +721,7 @@ section h3.section-subheading {
     }
 
     .timeline>li {
-        margin-bottom: 00px;
+        margin-bottom: 100px;
         min-height: 100px;
     }
 
