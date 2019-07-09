@@ -9,11 +9,11 @@ markdown: kramdown
 facebook:
   app_id: 
 
-logo: "../css/2016_style/img/icon-large.png"
+logo: "../css/2016_style/img/icon.png"
 
 social: 
   name: Your Facebook Page
-  link: "https://www.facebook.com/"
+  link: "https://www.facebook.com/a.o.e.lehigh/"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
@@ -26,9 +26,9 @@ plugins:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: https://www.facebook.com
-  - title: twitter
-    url: https://twitter.com
+    url: https://www.facebook.com/a.o.e.lehigh/
+  - title: instagram
+    url: https://www.instagram.com/aoe_lehighu
 
 # Build settings
 markdown: kramdown
