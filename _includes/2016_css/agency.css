@@ -289,7 +289,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: {{ site.data.template.font.primary }};
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
+    color: #000;
 }
 
 .navbar-default .nav li a:hover,
