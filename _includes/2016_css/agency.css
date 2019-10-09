@@ -113,9 +113,15 @@ aside.clients,
     background-color: #f7f7f7;
 }
 
+.bg-med-gray {
+    background-color: rgb(112, 112, 112);
+}
+
 .bg-darkest-gray {
     background-color: #222;
 }
+
+
 
 .btn-primary {
     border-color: #{{ site.data.template.color.primary }};
